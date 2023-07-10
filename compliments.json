@@ -1,19 +1,25 @@
 {
   "anytime": ["I am in the right place at the right time, doing the right thing. -Louise Hay",
-			  "Conscious breathing is my anchor. -Thich Nhat Hanh"],
+			  "Conscious breathing is my anchor. -Thich Nhat Hanh",
+			 "May this moment of possibility be a risk filled invitation to pour ourselves into the heat of curiosity, mischief, celebration and delight. -Margo Rinehart",
+			  "Spirit of love and mystery; help us to recognize the spark of the divine that resides within each of us. -Andrew Pakula",
+			  "And when your eyes freeze behind the grey window and the ghost of loss gets into you, may a flock of colors... come to awaken in you a meadow of delight... -John O'Donahue",
+			  "And forget not that the earth delights to feel your bare feet and the winds long to play with your hair. -Khalil Gibran"
+			 ],
   "morning": [
     "You are loved just for being who you are, just for existing. -Ram Dass",
-    "Courage starts with showing up and letting ourselves be seen. -BRENÉ BROWN",
-    "Open your heart and drink in this glorious day. -HEATHER HAVRILESKY"
+    "Courage starts with showing up and letting ourselves be seen. -Brene Brown",
+    "Open your heart and drink in this glorious day. -Heather Harvelesky",
+	"I rise in the morning torn between the desire \n To save the world or to savor it—to serve life or to enjoy it; -Richard S. Gilbert"
   ],
   "afternoon": [
-    "Nothing can dim the light that shines from within. -MAYA ANGELOU",
-    "The perfect moment is this one. -JON KABAT-ZINN",
-    "You must do the things you think you cannot do. -ELEANOR ROOSEVELT"
+    "Nothing can dim the light that shines from within. -Maya Angelou",
+    "The perfect moment is this one. -Jon Kabat-Zinn",
+    "You must do the things you think you cannot do. -Eleanor Roosevelt"
   ],
   "evening": [
-    "I'm giving you permission to root for yourself and while you're at it root for those around you, too. -MINDY KALING",
-    "We must accept finite disappointment, but never lose infinite hope. -MARTIN LUTHER KING JR.",
-    "Your life is already a miracle of chance waiting for you to shape its destiny. -TONI MORRISON"
+    "I'm giving you permission to root for yourself and while you're at it root for those around you, too. -Mindy Kaling",
+    "We must accept finite disappointment, but never lose infinite hope. -Martin Luther King Jr.",
+    "Your life is already a miracle of chance waiting for you to shape its destiny. -Toni Morrison"
   ]
 }
