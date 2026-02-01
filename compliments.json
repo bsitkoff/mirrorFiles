@@ -1,25 +1,57 @@
 {
-  "anytime": ["I am in the right place at the right time, doing the right thing. -Louise Hay",
-			  "Conscious breathing is my anchor. -Thich Nhat Hanh",
-			 "May this moment of possibility be a risk filled invitation to pour ourselves into the heat of curiosity, mischief, celebration and delight. -Margo Rinehart",
-			  "Spirit of love and mystery; help us to recognize the spark of the divine that resides within each of us. -Andrew Pakula",
-			  "And when your eyes freeze behind the grey window and the ghost of loss gets into you, may a flock of colors... come to awaken in you a meadow of delight... -John O'Donahue",
-			  "And forget not that the earth delights to feel your bare feet and the winds long to play with your hair. -Khalil Gibran"
-			 ],
+  "anytime": [
+    "I am in the right place at the right time, doing the right thing. -Louise Hay",
+    "Conscious breathing is my anchor. -Thich Nhat Hanh",
+    "May this moment of possibility be a risk filled invitation to pour ourselves into the heat of curiosity, mischief, celebration and delight. -Margo Rinehart",
+    "Spirit of love and mystery; help us to recognize the spark of the divine that resides within each of us. -Andrew Pakula",
+    "And when your eyes freeze behind the grey window and the ghost of loss gets into you, may a flock of colors... come to awaken in you a meadow of delight... -John O'Donahue",
+    "And forget not that the earth delights to feel your bare feet and the winds long to play with your hair. -Khalil Gibran",
+    "Walk as if you are kissing the Earth with your feet. -Thich Nhat Hanh",
+    "Impermanence is a principle of harmony. When we don't struggle against it, we are in harmony with reality. -Pema Chödrön",
+    "The present moment is filled with joy and happiness. If you are attentive, you will see it. -Thich Nhat Hanh",
+    "Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor. -Thich Nhat Hanh",
+    "Let the soft animal of your body love what it loves. -Mary Oliver",
+    "You are imperfect, you are wired for struggle, but you are worthy of love and belonging. -Brené Brown",
+    "Authenticity is a collection of choices that we have to make every day. It's about the choice to show up and be real. -Brené Brown",
+    "The dark does not destroy the light; it defines it. It's our fear of the dark that casts our joy into the shadows. -Brené Brown",
+    "There is no innovation and creativity without failure. Period. -Brené Brown",
+    "Talk to yourself like you would to someone you love. -Brené Brown",
+    "Whoever you are, no matter how lonely, the world offers itself to your imagination. -Mary Oliver",
+    "Breath is the bridge which connects life to consciousness, which unites your body to your thoughts. -Thich Nhat Hanh",
+    "Letting go gives us freedom, and freedom is the only condition for happiness. -Thich Nhat Hanh",
+    "Life is available only in the present moment. -Thich Nhat Hanh",
+    "Keeping your body healthy is an expression of gratitude to the whole cosmos—the trees, the clouds, everything. -Thich Nhat Hanh",
+    "The most precious gift we can offer anyone is our attention. -Thich Nhat Hanh"
+  ],
   "morning": [
     "You are loved just for being who you are, just for existing. -Ram Dass",
-    "Courage starts with showing up and letting ourselves be seen. -Brene Brown",
+    "Courage starts with showing up and letting ourselves be seen. -Brené Brown",
     "Open your heart and drink in this glorious day. -Heather Harvelesky",
-	"I rise in the morning torn between the desire \n To save the world or to savor it—to serve life or to enjoy it; -Richard S. Gilbert"
+    "I rise in the morning torn between the desire \n To save the world or to savor it—to serve life or to enjoy it; -Richard S. Gilbert",
+    "I promise myself that I will enjoy every minute of the day that is given me to live. -Thich Nhat Hanh",
+    "The present moment is the only time over which we have dominion. -Thich Nhat Hanh",
+    "I don't have to chase extraordinary moments to find happiness – it's right in front of me if I'm paying attention and practicing gratitude. -Brené Brown",
+    "What is it you plan to do with your one wild and precious life? -Mary Oliver",
+    "Smile, breathe and go slowly. -Thich Nhat Hanh"
   ],
   "afternoon": [
     "Nothing can dim the light that shines from within. -Maya Angelou",
     "The perfect moment is this one. -Jon Kabat-Zinn",
-    "You must do the things you think you cannot do. -Eleanor Roosevelt"
+    "You must do the things you think you cannot do. -Eleanor Roosevelt",
+    "Sometimes the bravest and most important thing you can do is just show up. -Brené Brown",
+    "There is no way to happiness – happiness is the way. -Thich Nhat Hanh",
+    "People have a hard time letting go of their suffering. Out of a fear of the unknown, they prefer suffering that is familiar. -Thich Nhat Hanh",
+    "Want to be happy? Stop trying to be perfect. -Brené Brown",
+    "To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself. -Thich Nhat Hanh"
   ],
   "evening": [
     "I'm giving you permission to root for yourself and while you're at it root for those around you, too. -Mindy Kaling",
     "We must accept finite disappointment, but never lose infinite hope. -Martin Luther King Jr.",
-    "Your life is already a miracle of chance waiting for you to shape its destiny. -Toni Morrison"
+    "Your life is already a miracle of chance waiting for you to shape its destiny. -Toni Morrison",
+    "Owning our story can be hard but not nearly as difficult as spending our lives running from it. -Brené Brown",
+    "Only when we are brave enough to explore the darkness will we discover the infinite power of our light. -Brené Brown",
+    "Tell me about despair, yours, and I will tell you mine. Meanwhile the world goes on. -Mary Oliver",
+    "At the end of the day, at the end of the week, at the end of my life, I want to say I contributed more than I criticized. -Brené Brown",
+    "My actions are my only true belongings. I cannot escape the consequences of my actions. -Thich Nhat Hanh"
   ]
 }
